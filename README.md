@@ -2,7 +2,7 @@
 First NLU assignment
 student: Pietro Ghislieri
 
-#Requirements
+# Requirements
 - spaCy
   run pip install spacy
   run python -m spacy download en_core_web_sm to install English models
@@ -10,6 +10,6 @@ student: Pietro Ghislieri
 - Jupyter-notebook
   run pip install notebook
  
-#Code and Report
+# Code and Report
 - the code is in the file "FirstAssignment.ipynb" 
 - the report is in "Report_PietroGhislieri_223784"
