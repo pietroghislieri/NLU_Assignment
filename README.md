@@ -13,3 +13,4 @@ student: Pietro Ghislieri
 # Code and Report
 - the code is in the file "FirstAssignment.ipynb" 
 - the report is in "Report_PietroGhislieri_223784"
+- the code and the repo for the second assignment is in "SecondAssignment.ipynb"
